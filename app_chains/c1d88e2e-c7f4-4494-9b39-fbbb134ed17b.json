@@ -1,0 +1,8 @@
+{
+  "name": "ericH",
+  "logo": "https://imgur.com/6kpa3mx",
+  "rpc_url": "http://158.220.104.226:9944",
+  "explorer_url": "158.220.104.226:4000",
+  "metrics_endpoint": "http://158.220.104.226:9615/metrics",
+  "id": "c1d88e2e-c7f4-4494-9b39-fbbb134ed17b"
+}
